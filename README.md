@@ -28,6 +28,10 @@ Smart sourdough incubator powered by STM32 IoT node
 ## Useful links
 - [Sensor usage tutorial](https://wiki.st.com/stm32mcu/wiki/STM32StepByStep:Step4_Sensors_usage)
 - [Node-RED MQTT tutorial](https://cookbook.nodered.org/#mqtt)
+- [STM32 MQTT interface tutorials](https://www.st.com/content/ccc/resource/corporate/company/divisional_presentation/group0/43/b5/72/31/48/42/4a/93/STM32L4_Discovery_Kit_IoT_Node_Hands_on/files/STM32L4_Discovery_Kit_IoT_Node_Hands_on.pdf/_jcr_content/translations/en.STM32L4_Discovery_Kit_IoT_Node_Hands_on.pdf)
 
+### MQTT Public Brokers
+- [Mosquitto](https://test.mosquitto.org/)
+- [HiveMQ](https://www.hivemq.com/public-mqtt-broker/)
 
 
