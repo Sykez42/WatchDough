@@ -1,2 +1,2 @@
-- [Humidity and Temperature sensor](https://github.com/Sykez42/WatchDough/blob/main/Datasheet/hts221.pdf)
+- [Humidity and Temperature sensor hts221](https://github.com/Sykez42/WatchDough/blob/main/Datasheet/hts221.pdf)
 - [Discovery kit datasheet](https://github.com/Sykez42/WatchDough/blob/main/Datasheet/um2153-discovery-kit-for-iot-node-multichannel-communication-with-stm32l4-stmicroelectronics.pdf)
