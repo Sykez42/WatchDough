@@ -1,6 +1,10 @@
 # WatchDough
 Smart sourdough incubator powered by STM32 IoT node
 
+## Softwares and tools
+- Node-Red
+- STM32 CubeIde
+
 ## Project requirements
 
 |REQ ID|TYPE|DESCRIPTION|
