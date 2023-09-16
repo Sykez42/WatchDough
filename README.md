@@ -1,7 +1,7 @@
 # WatchDough
 Smart sourdough incubator powered by STM32 IoT node
 
-Project requirements
+## Project requirements
 
 |REQ ID|TYPE|DESCRIPTION|
 |---|---|---|
@@ -21,6 +21,8 @@ Project requirements
 |RQ014|ML|in both modes, the lamp status (ON-OFF) must be shown on the MQTT application interface|
 |RQ015|LL|the IR lamp is controlled by a digital relay|
 
+## Useful links
+- [Sensor usage tutorial](https://wiki.st.com/stm32mcu/wiki/STM32StepByStep:Step4_Sensors_usage)
 
 
 
