@@ -27,7 +27,7 @@ Smart sourdough incubator powered by STM32 IoT node
 
 ## Useful links
 - [Sensor usage tutorial](https://wiki.st.com/stm32mcu/wiki/STM32StepByStep:Step4_Sensors_usage)
-
+- [Node-RED MQTT tutorial](https://cookbook.nodered.org/#mqtt)
 
 
 
