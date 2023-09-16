@@ -1,1 +1,1 @@
-
+- [Humidity and Temperature sensor](https://github.com/Sykez42/WatchDough/blob/main/Datasheet/hts221.pdf)
